@@ -1,0 +1,8 @@
+[package]
+name = "jogo_de_advinhacao"
+version = "0.1.0"
+authors = ["Wanderley Cabral"]
+edition = "2024"
+
+[dependencies]
+rand = "0.4.0"
